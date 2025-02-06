@@ -128,4 +128,4 @@ pred_proba = best_model.predict_proba(test_scaled)[:, 1]
 # 제출 파일 생성
 sample_submission = pd.read_csv('C:/code/aimers/data/sample_submission.csv')
 sample_submission['probability'] = pred_proba
-sample_submission.to_csv('C:/code/aimers/data/lightgbm_1.csv', index=False)
+sample_submission.to_csv('C:/code/aimers/data/test3_1_lightgbm_1.csv', index=False)
