@@ -4,7 +4,7 @@
 The project aims to predict pregnancy success using advanced machine learning techniques developed for the LG Aimers Hackathon.
 
 ## Final Performance
-**Private Score: 0.74159**
+**Private Score: 0.74159** (TOP 22%)
 
 ## 👥 Team Members
 <table>
